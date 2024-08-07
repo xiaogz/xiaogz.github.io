@@ -1,0 +1,19 @@
+{
+  "name": "xiaogz.github.io",
+  "version": "1.0.0",
+  "description": "Static site for blogging.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "programming",
+    "software"
+  ],
+  "author": "GuangZhi Xiao",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
